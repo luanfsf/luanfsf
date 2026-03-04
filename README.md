@@ -1,6 +1,6 @@
 - 👋 Hello, 🌎! I’m Luan!
-- 👀 I’m am Software Engineer based in Brazil.
-- 🌱 I’m currently learning more about Golang, Apache Spark and DevOps.
+- 👀 I’m am Software Engineer and Consultant based in Brazil.
+- 🌱 I’m currently learning about Git internals, Observability engineering, Rust, but I cant stop reading about Astrophysics.
 - 💞️ I’m looking to collaborate on interesting projects!
 - 📫 How to reach me:
   * <a href="mailto:luanfsf@gmail.com?subject=Hello%20Luan!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
